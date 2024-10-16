@@ -1,3 +1,7 @@
+---
+title: Tautologie & Woordovertolligheids vereniging
+---
+
 # Nationale Landelijke Tautologie & Woordovertolligheids Vereniging
 Dit is de website en internetpagina van de Nationale Landelijke Tautologie & Woordovertolligheids Vereniging.
 Onze Tautologie & Woordovertolligheids Vereniging komt maandelijks eens per 30 dagen samen op het Science Park van de UvA in Amsterdam.
